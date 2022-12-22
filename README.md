@@ -1,6 +1,11 @@
 # Metod String
 
 1. String length
+
+# Хусусияти length дарозии сатрро бармегардонад:
+
+# Истихроҷи қисмҳои сатр
+
 2. String slice()
 3. String substring()
 4. String substr()
